@@ -1,0 +1,46 @@
+{
+    "slides":
+    [
+        {
+            "image" : "https://img.xcitefun.net/users/2014/07/358248,xcitefun-bigar-waterfall-3.jpg",
+            "description" : "Lorem Ipsum Generator. Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate! Generated Lorem Ipsum",
+            "title" : "Awesome slide number 1"
+        },
+        {
+            "image" : "https://img.xcitefun.net/users/2013/11/343849,xcitefun-canadian-rockies-3.jpg",
+            "description" : "Lorem Ipsum Generator. Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate! Generated Lorem Ipsum",
+            "title" : "Awesome slide number 2"
+        },
+        {
+            "image" : "https://wallsdesk.com/wp-content/uploads/2018/03/Pictures-of-Elk.jpg",
+            "description" : "Lorem Ipsum Generator. Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate! Generated Lorem Ipsum",
+            "title" : "Awesome slide number 3"
+        },
+        {
+            "image" : "https://askthepilot.com/wp-content/uploads/2012/07/Islet.jpg",
+            "description" : "Lorem Ipsum Generator. Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate! Generated Lorem Ipsum",
+            "title" : "Awesome slide number 4"
+        },
+        {
+            "image" : "https://9to5carwallpapers.com/wp-content/uploads/2017/10/Beautiful-River-Mountain-Landscape-Pics-Photos-Wallpapers-Images-Free-Download.jpg",
+            "description" : "Lorem Ipsum Generator. Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate! Generated Lorem Ipsum",
+            "title" : "Awesome slide number 5"
+        },
+        {
+            "image" : "https://img.xcitefun.net/users/2013/11/344335,xcitefun-yoho-national-park-8.jpg",
+            "description" : "Lorem Ipsum Generator. Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate! Generated Lorem Ipsum",
+            "title" : "Awesome slide number 6"
+        },
+        {
+            "image" : "https://getwallpapers.com/wallpaper/full/4/5/9/860480-autumn-wallpapers-for-desktop-1920x1200-meizu.jpg",
+            "description" : "Lorem Ipsum Generator. Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate! Generated Lorem Ipsum",
+            "title" : "Awesome slide number 7"
+        }
+    ],
+
+    "info": 
+    {
+        "appname": "React_Grid_Design",
+        "author": "WarlockJa"
+    }
+}
