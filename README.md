@@ -1,7 +1,7 @@
 # Getting Started with React Grid Design
 
 **About**
-This is a responsive react website utilizing grid functionality with carousel slide interaction
+This is a simple responsive react website utilizing grid functionality with carousel slide interaction
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
